@@ -1,4 +1,30 @@
-.degradado{
-	-fx-background-color: linear-gradient(#2A5058, #E74C3C);
-    
+.header{
+	-fx-background-color: #0000ff;
 }
+
+.homeBTNS :hover {
+	-fx-background-color: #ff895e;
+	
+	}
+
+	
+	.img1{
+		-fx-background-image: url("1.jpg");
+	}
+	.img2{
+		-fx-background-image: url("2.jpg");
+	}
+	.img3{
+		-fx-background-image: url("3.jpg");
+	}
+	.img4{
+		-fx-background-image: url("4.jpg");
+	}
+	
+	
+.colorboton{
+	-fx-background-color:  #B5F583;
+	 }
+	 .colorboton2{
+	-fx-background-color:  #F11929;
+	 }
